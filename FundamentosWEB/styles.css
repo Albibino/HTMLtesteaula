@@ -1,0 +1,22 @@
+#titulo1{
+    font-size: xx-large;
+    color: black;
+    border: solid 2px black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#p1{
+    text-align: center;
+    font-size: medium;
+}
+
+#p2{
+    text-align: center;
+    font-size: medium;
+}
+
+#p3{
+    text-align: center;
+    font-size: medium;
+}
