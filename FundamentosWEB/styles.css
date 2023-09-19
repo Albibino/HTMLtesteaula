@@ -42,7 +42,7 @@ footer{
         color: black;
         border-radius: 10px;
         border: solid 2px white;
-        margin: 0 500px 50px 500px;
+        margin: 0 700px 50px 700px;
         list-style: none;
     }
 
@@ -68,6 +68,6 @@ footer{
         border: 2px solid white;
         padding: 16px 32px;
         margin: 0 4px 2px 0;
-        border-radius: 10px;
+        border-radius: 9px;
     }
 }
